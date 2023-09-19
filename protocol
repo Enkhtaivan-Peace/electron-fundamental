@@ -1,0 +1,3 @@
+1. main process - оос dom руу шууд хандах боломжгүй
+2. renderer process - оос nodejs API руу шууд хандах боломжгүй
+энэ асуудлын шийдэл нь ipcMain болон ipcRenderer модулиудыг ашиглах явдал юм.
